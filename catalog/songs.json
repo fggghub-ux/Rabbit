@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "songs": [
+    {
+      "id": "diet-pepsi-001",
+      "name": "Diet Pepsi",
+      "audio": "https://raw.githubusercontent.com/lu2594990-ux/Rabbit/main/audio/Diet%20Pepsi.mp3"
+    },
+    {
+      "id": "daoshi-shuo-ai-wo-002",
+      "name": "到时说爱我",
+      "audio": "https://raw.githubusercontent.com/lu2594990-ux/Rabbit/refs/heads/main/audio/JIDESHUOAIWO.mp3"
+    },
+    {
+      "id": "love-nwantiti-remix-003",
+      "name": "Love Nwantiti (Remix)",
+      "audio": "https://raw.githubusercontent.com/lu2594990-ux/Rabbit/refs/heads/main/audio/Love%20Nwantiti%20(Remix).mp3"
+    },
+    {
+      "id": "no-fear-004",
+      "name": "No Fear",
+      "audio": "https://raw.githubusercontent.com/lu2594990-ux/Rabbit/refs/heads/main/audio/No%20Fear.mp3"
+    },
+    {
+      "id": "tell-you-005",
+      "name": "Tell You",
+      "audio": "https://raw.githubusercontent.com/lu2594990-ux/Rabbit/refs/heads/main/audio/Tell%20You.mp3"
+    },
+    {
+      "id": "bye-altare-remix-006",
+      "name": "bye [Altare Remix]",
+      "audio": "https://raw.githubusercontent.com/lu2594990-ux/Rabbit/refs/heads/main/audio/bye%20%5BAltare%20Remix%5D.mp3"
+    },
+    {
+      "id": "supernatural-007",
+      "name": "supernatural",
+      "audio": "https://raw.githubusercontent.com/lu2594990-ux/Rabbit/refs/heads/main/audio/supernatural.mp3"
+    },
+    {
+      "id": "worst-behavior-008",
+      "name": "worst behavior",
+      "audio": "https://raw.githubusercontent.com/lu2594990-ux/Rabbit/refs/heads/main/audio/worst%20behavior.mp3"
+    },
+    {
+      "id": "boys-a-liar-pt-2-009",
+      "name": "Boy's a liar Pt. 2",
+      "audio": "https://raw.githubusercontent.com/lu2594990-ux/Rabbit/refs/heads/main/audio/Boy's%20a%20liar%20Pt.%202.mp3"
+    }
+  ]
+}
